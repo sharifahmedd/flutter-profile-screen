@@ -1,71 +1,41 @@
-# 🍦 Flutter Profile UI
+# 🍦 Flutter UI Assignment
 
-A simple Flutter application that demonstrates the use of common Material Design widgets to build a clean profile-style interface.
+A simple Flutter application that demonstrates the use of basic Material Design widgets to create a clean and organized user interface.
 
 ## ✨ Features
 
 * Custom `AppBar` with action buttons
-* Centered layout using `Column`
 * Rounded containers with icons
-* Text widgets with custom styling
-* Basic Material Design UI
-* Clean and beginner-friendly Flutter code
+* Centered layout using `Column`
+* Styled text widgets
+* Beginner-friendly Flutter code
 
-## 📱 Preview
+## 📱 Application Overview
 
-The application displays:
+The app contains two sections:
 
-* 🍦 An ice cream section with a themed icon and message.
-* 💻 A programming section with a code icon and motivational text.
-* An AppBar containing **Add**, **Settings**, and **Phone** action buttons.
+* 🍦 An ice cream section with an icon and a short message.
+* 💻 A programming section with a code icon and a motivational message.
+
+The AppBar includes:
+
+* Add button
+* Settings button
+* Phone button
 
 ## 🛠️ Built With
 
 * Flutter
 * Dart
-* Material Design
+* Material Design Widgets
 
-## 📂 Project Structure
+## 📂 Repository Structure
 
 ```text
-flutter_profile_ui/
+.
 ├── lib/
 │   └── main.dart
-├── pubspec.yaml
 └── README.md
-```
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-* Flutter SDK
-* Dart SDK
-* Android Studio or VS Code
-
-Check your Flutter installation:
-
-```bash
-flutter doctor
-```
-
-### Clone the Repository
-
-```bash
-git clone <repository-url>
-```
-
-### Navigate to the Project
-
-```bash
-cd flutter_profile_ui
-```
-
-### Run the App
-
-```bash
-flutter pub get
-flutter run
 ```
 
 ## 📚 Widgets Used
@@ -84,17 +54,17 @@ flutter run
 
 ## 🎯 Learning Objectives
 
-This project was created to practice:
+This project helped me practice:
 
 * Flutter project structure
-* Material widgets
-* Layout design using `Column`
-* Styling with `Container` and `BoxDecoration`
-* Using icons and text
-* Building responsive UI basics
+* Material Design widgets
+* Layout creation using `Column`
+* Widget styling with `Container` and `BoxDecoration`
+* Building simple and responsive user interfaces
 
 ## 👨‍💻 Author
 
 **Sharif Ahmed**
 
-GitHub: https://github.com/sharifahmedd
+* GitHub: https://github.com/sharifahmedd
+* LinkedIn: https://www.linkedin.com/in/sharifahmedd/
